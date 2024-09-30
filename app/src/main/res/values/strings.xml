@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Covid Vaccination App</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="post_slot">Post Slot</string>
+    <string name="view_status">View Status</string>
+    <string name="view_slots">View Available Slots</string>
+    <string name="book_slot">Book Slot</string>
+    <string name="view_vaccination_status">View Vaccination Status</string>
+</resources>
